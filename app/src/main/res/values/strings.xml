@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smack Chat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="navBar_LogIn">LOGIN</string>
+    <string name="contentMain_PleaseLogIn">Please Log In</string>
+    <string name="contentMain_message_hint">Message…</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="dontHaveAccount">Don\'t have an account?</string>
+    <string name="createAcc">CREATE ACCOUNT</string>
+</resources>
